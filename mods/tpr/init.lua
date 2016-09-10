@@ -2,6 +2,7 @@
 -- https://forum.minetest.net/viewtopic.php?id=4457
 
 -- Updates by Zeno and ChaosWormz
+-- Updated for compatibility with minetest-gamehub
 
 local timeout_delay = 60
 
